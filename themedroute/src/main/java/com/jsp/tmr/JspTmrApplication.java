@@ -10,9 +10,10 @@ public class JspTmrApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(JspTmrApplication.class, args);
-
+		System.out.println("--------------");
+		
 	}
-
+		
 }
 
 

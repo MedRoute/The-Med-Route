@@ -1,0 +1,45 @@
+{
+  "userentity": [
+    {
+      "id": 2,
+      "username": "Satish",
+      "email": "Satish@gmail.com",
+      "password": "S@123",
+      "age": 25
+    }
+  ],
+  "useraddress": [
+    {
+      "id": 1,
+      "phone_no": "9110060810",
+      "door_no": "110A",
+      "street": "Uttam_Nagar",
+      "area": "East_Delhi",
+      "district": "Delhi",
+      "state": "New_Delhi",
+      "country": "India",
+      "pincode": 110016
+    },
+    {
+      "phone_no": "3212121212",
+      "door_no": "pp",
+      "street": "ppp",
+      "area": "ppp",
+      "district": "pppp",
+      "state": "pppp",
+      "country": "pppp",
+      "pincode": "111111",
+      "id": 2
+    }
+  ],
+  "userissue": [
+    {
+      "id": 1,
+      "thairaid": "no",
+      "covid": "no",
+      "suger": "yes",
+      "bp": "no",
+      "children": "no"
+    }
+  ]
+}

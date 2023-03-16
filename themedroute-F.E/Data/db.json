@@ -1,0 +1,24 @@
+{
+  "Signup": [
+    {
+      "id": 1,
+      "UserName": "xyz",
+      "EmailId": "xyz@gmail.com",
+      "PassWord": "11111",
+      "Conform_PassWord": "11111",
+      "Age": "00",
+      "Address": "Delhi",
+      "PhoneNo": "1111122222"
+    },
+    {
+      "UserName": "Satish",
+      "EmailId": "Satish@gmail.com",
+      "PassWord": "12345",
+      "Conform_PassWord": "12345",
+      "Age": "25",
+      "Address": "Delhi",
+      "PhoneNo": "9801715424",
+      "id": 2
+    }
+  ]
+}
